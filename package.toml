@@ -3,6 +3,10 @@ use = "yazi-rs/plugins:full-border"
 rev = "5eea960"
 hash = "3996fc74044bc44144b323686f887e1"
 
+[[plugin.deps]]
+use = "yazi-rs/plugins:chmod"
+rev = "5eea960"
+hash = "a030fe48d91b04341ad2fba9be957df"
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-frappe"
 rev = "d04a298"
