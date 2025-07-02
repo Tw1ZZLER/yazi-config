@@ -23,6 +23,11 @@ use = "yazi-rs/plugins:smart-enter"
 rev = "2ad42fa"
 hash = "56fdabc96fc1f4d53c96eb884b02a5be"
 
+[[plugin.deps]]
+use = "yazi-rs/plugins:diff"
+rev = "2ad42fa"
+hash = "47865a70cade14a0b9b6bc6a54f16bdb"
+
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-frappe"
 rev = "d04a298"
